@@ -3,13 +3,13 @@ import "./globals.css";
 import Navbar from "@/components/layout/Navbar";
 
 export const metadata: Metadata = {
-  title: "芮菡 - 创意设计师作品集",
-  description: "芮菡的个人作品集网站，展示品牌设计、UI/UX设计、插画设计等创意作品。用设计讲述故事，用创意点亮生活。",
-  keywords: ["设计师", "作品集", "品牌设计", "UI设计", "插画", "芮菡"],
+  title: "芮菡 - 项目案例",
+  description: "芮菡的项目案例网站，展示文化艺术项目管理的实践成果。让每个创意稳准落地并产生可见成效。",
+  keywords: ["项目管理", "制片", "文化艺术", "活动策划", "展览", "演出", "芮菡"],
   authors: [{ name: "芮菡" }],
   openGraph: {
-    title: "芮菡 - 创意设计师作品集",
-    description: "用设计讲述故事，用创意点亮生活",
+    title: "芮菡 - 项目案例",
+    description: "让每个创意稳准落地并产生可见成效",
     type: "website",
     locale: "zh_CN",
   },
