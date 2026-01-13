@@ -11,7 +11,7 @@ const nextConfig: NextConfig = {
 
   // 基础路径（GitHub Pages子目录）
   // 注意：如果仓库名不是ruihan-portfolio，需要修改这里
-  basePath: process.env.NODE_ENV === 'production' ? '/ruihan-portfolio' : '',
+  // basePath: process.env.NODE_ENV === 'production' ? '/ruihan-portfolio' : '',
 
   // 页面预渲染
   trailingSlash: true,
