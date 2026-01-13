@@ -1,0 +1,2 @@
+:HL["/ruihan-portfolio/_next/static/chunks/f5d277f0752b9e55.css","style"]
+0:{"buildId":"fJuTrkIZy1ZkeW23Y00A4","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
